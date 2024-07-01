@@ -1,0 +1,107 @@
+
+body {
+    background-color: #8f85859a;
+    color: rgb(11, 1, 1);
+    font-family: Arial;
+    margin: none;
+    margin-left: 40px;
+}
+.title {
+    font-size: 36px;
+    font-family: arial;
+    margin: none;
+    margin-block-start:15px;
+    margin-block-end:15px;
+    display: lex;
+    justify-content: enter;
+    align-items: enter;
+}
+.move-icon {
+    height: 80px;
+}
+.move-button {
+    background-color: #1c1b1b;
+    border: 3px solid rgb(247, 213, 101);
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: -0px;
+    margin-bottom: -0px;
+    cursor: pointer;
+}
+.result {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+
+}
+.score {
+    margin-top: 10px;
+    font-size: 25px;
+} 
+.reset-score-button {
+    background-color: #1c1b1b;
+    border-width: 0.5px;
+    border: 3px solid #f7d565;
+    color: #f7d565;
+    border-radius: 8px;
+    font-size: 15px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.name-input {
+    background-color: #1c1b1b;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px;
+    border-radius: 9px;
+    border: 3px solid #f7d565;
+    color: #f7d565;
+
+    
+}
+.enter-button {
+    background-color: #1c1b1b;
+    border: 3px solid #f7d565;
+    color: #f7d565;
+    font-size: 18px;
+    padding: 12px 17px;
+    cursor: pointer;
+    border-radius: 9px;
+    margin-left: 5px;
+}
+.message {
+    font-size: 36px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-bottom: 25px;
+}
+.message2 {
+    font-size: 36px;
+    color: black; 
+    
+}
+
+#timer {
+    font-size: 40px;
+    color: #000000;
+}
+
+
+
+.control-button {
+    background-color: #1c1b1b;
+    border-width: 0.5px;
+    border-color: #64626247;
+    border: 3px solid #f7d565;
+    color: #f7d565;
+    border-radius: 8px;
+    font-size: 15px;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-top: 5px;
+}
